@@ -6278,4 +6278,11 @@ fieldset[disabled] .btn-started.active {
   background-position: 0px;
   padding-left: 35px;
 }
+html {
+  min-height: 100%;
+  position: relative;
+}
+body {
+  margin-bottom: 60px;
+}
 /*# sourceMappingURL=bootstrap.css.map */
